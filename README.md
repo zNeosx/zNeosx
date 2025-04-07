@@ -9,7 +9,7 @@
 💼 J'utilise principalement des outils modernes comme React, Next.js, NestJS et Prisma pour construire des apps performantes, aussi bien côté frontend que backend.  
 🧠 Je suis toujours en quête de nouveaux défis, et j'adore apprendre de nouvelles technos !
 
-🔗 Connecte-toi avec moi sur [LinkedIn](https://linkedin.com/in/tonprofil) ou via GitHub pour discuter ou collaborer !
+🔗 Connecte-toi avec moi sur [LinkedIn](https://www.linkedin.com/in/vincent-aipar-b88232199) ou via GitHub pour discuter ou collaborer !
 
 ---
 
@@ -45,8 +45,8 @@
 ### 📊 Mes Stats GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zNeosx&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNeosx&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
