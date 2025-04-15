@@ -1,6 +1,6 @@
 <!-- Banner / Intro -->
 
-<h1 align="center">Hey there 👋, I'm Vincent!</h1>
+<h1 align="center">Salut 👋, Moi c'est Vincent!</h1>
 <h3 align="center">Fullstack Web Developer | Passionné par les technos modernes</h3>
 
 🚀 Je suis un développeur FullStack curieux et passionné par la création d'applications web élégantes et performantes.  
